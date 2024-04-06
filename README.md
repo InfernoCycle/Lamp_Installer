@@ -10,7 +10,7 @@ use the commands ". lamp.sh [-options] [program_name]". Examples below
 Help:
 ![image](https://github.com/InfernoCycle/Lamp_Installer/assets/105338348/1bf30add-d97b-4a7c-96c3-cb934ec3c57f)
 
-Installation
+Installation:
 ![image](https://github.com/InfernoCycle/Lamp_Installer/assets/105338348/b888f126-28cb-4468-b90c-ff0a23bf5c27)
 
 # Supported Operating Systems
