@@ -12,3 +12,6 @@ Help:
 
 Installation
 ![image](https://github.com/InfernoCycle/Lamp_Installer/assets/105338348/b888f126-28cb-4468-b90c-ff0a23bf5c27)
+
+# Supported Operating Systems
+Linux Only. Has only been tested on Kali.
